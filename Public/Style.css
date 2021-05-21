@@ -1,0 +1,26 @@
+a {
+    text-decoration: none;
+    color: #fff;
+   padding: 35px;
+}
+.navbar{
+    font-size:30px;
+    text-align: center;
+    padding: 23px 11px;
+    margin: -10px;
+    background-color:rgb(134, 135, 139);
+    
+}
+a:hover{
+    color: rgb(33, 61, 185);
+   
+}
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: brown;
+
+}
+body{
+    background-color:rgba(160, 151, 151, 0.466);
+}
